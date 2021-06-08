@@ -428,7 +428,7 @@ const Week2 = () => {
           <Text>
             Let's get onto glitch for a demo!
           </Text>
-          <a href="https://glitch.com/~icom-101-starting-point">Fork this project to get started on glitch</a>
+          <a href="https://glitch.com/edit/#!/icom101-week1-start">Fork this project to get started on glitch</a>
         </VertCenter>
       </Slide>
     </Slideshow>
