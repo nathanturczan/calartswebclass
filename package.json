@@ -1,6 +1,5 @@
 {
-  "homepage": "http://nathanturczan.com/calartswebclass",
-  "name": "calartswebclass",
+  "name": "calartswebclass.dev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,13 +15,11 @@
     "styled-components": "^4.3.2"
   },
   "scripts": {
-    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "syllabus": "./node_modules/.bin/markdown-pdf src/Routes/Syllabus.md"
   },
   "eslintConfig": {
     "extends": "react-app"
