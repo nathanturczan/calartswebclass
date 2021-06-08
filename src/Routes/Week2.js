@@ -19,7 +19,7 @@ const Week2 = () => {
     <Slideshow>
       <Slide>
         <VertCenter>
-          <Title>Welcome</Title>
+          <Title>Welcome HEY</Title>
           <Subtitle>Media and Web Development</Subtitle>
           <Text>
             <em>Week 2 - Introduction to HTML</em>
