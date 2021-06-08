@@ -11,6 +11,7 @@ const Home = () => {
           <em>ICOM-101 / MTEC-617</em>
         </Subtitle>
         <p>remote | asynchronous</p>
+        <p>new lecture videos / assignments posted Tuesday afternoons</p>
       </Header>
       <Section>
         <Subtitle>Syllabus</Subtitle>
@@ -23,6 +24,9 @@ const Home = () => {
             <SlideLink to="/week1">Week 1</SlideLink>
             <SlideDesc>
               <em>Welcome to the course!</em>
+              <p>
+                <a href="https://youtu.be/kSt9Gssf-Kk">Video Lecture</a>
+              </p>
             </SlideDesc>
           </li>
           <li>
@@ -30,12 +34,15 @@ const Home = () => {
             <SlideDesc>
               <em>Intro to HTML!</em>
               <p>
-                <a href="https://youtu.be/NeJQqitDn1k">Video Lecture</a>
+                <a>Video Lecture</a>
               </p>
               <p>
-                <a href="https://loom.com/share/folder/99bbe8896bc54a3b8605dc1da8b5a506">
+                <a href="https://glitch.com/edit/#!/icom101-week1-start">HTML homework starting point (on Glitch)</a>
+              </p>
+              <p>
+                {/*<a href="https://loom.com/share/folder/99bbe8896bc54a3b8605dc1da8b5a506">
                   feedback videos!
-                </a>
+                </a>*/}
               </p>
             </SlideDesc>
           </li>

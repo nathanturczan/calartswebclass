@@ -19,19 +19,19 @@ const Week2 = () => {
     <Slideshow>
       <Slide>
         <VertCenter>
-          <Title>Welcome HEY</Title>
+          <Title>Week 2</Title>
           <Subtitle>Media and Web Development</Subtitle>
           <Text>
-            <em>Week 2 - Introduction to HTML</em>
+            <em>Introduction to HTML</em>
           </Text>
         </VertCenter>
       </Slide>
       <Slide>
         <VertCenter>
-          <Title>Agenda</Title>
+          <Title>Lecture Outline</Title>
           <List>
             <Item>
-              <Text>What is HTML?</Text>
+              <Text>HTML - what is it?</Text>
             </Item>
             <Item>
               <Text>The DOM</Text>
@@ -40,13 +40,7 @@ const Week2 = () => {
               <Text>Elements and Tags</Text>
             </Item>
             <Item>
-              <Text>Typography</Text>
-            </Item>
-            <Item>
-              <Text>Layout</Text>
-            </Item>
-            <Item>
-              <Text>The Glitch Environment</Text>
+              <Text>Glitch demo!</Text>
             </Item>
           </List>
         </VertCenter>
@@ -59,19 +53,33 @@ const Week2 = () => {
       <Slide>
         <VertCenter>
           <Subtitle>
-            HTML <em>(Hyper-Text Markup Language)</em> is the content language of the web.
+            HTML = <em>HyperText Markup Language</em> 
           </Subtitle>
-          <Text>We use html to describe the content on a page.</Text>
-          <Text>Text, Images, Links, and Layout are all described using HTML.</Text>
+          <List>
+            <Item>
+              <Text>its a <a href="https://en.wikipedia.org/wiki/Markup_language">markup language</a> based on <a href="https://en.wikipedia.org/wiki/Hypertext">hypertext</a></Text>
+            </Item>
+            <Item>
+              <Text>We use HTML to write the content of a web page.</Text>
+            </Item>
+            <Item>
+              <Text>Text, Images, Links, and Layout are all described using HTML.</Text>
+            </Item>
+          </List>
         </VertCenter>
       </Slide>
       <Slide>
+      
         <VertCenter>
+          <Subtitle>
+            We are learning 3 languages this semester:
+          </Subtitle>
+          <Text><strong>HTML</strong>, CSS and <small>JavaScript</small><br/></Text>
           <ReadabilityBlock>
             <Text>
-              Of the three languages we will learn this semester. HTML is the most important. You can strip away style
-              or interaction and still have a functioning website, but to remove the HTML is to remove the{' '}
-              <em>content</em> of the website.
+              of all these, HTML is the most important / essential.<br/> <br/> 
+              remove style (CSS) or interaction (js) and there will still be a functioning website.<br/> <br/> 
+              but to remove the HTML is to remove the <em>content</em> of the website.
             </Text>
           </ReadabilityBlock>
         </VertCenter>
@@ -375,7 +383,7 @@ const Week2 = () => {
           </ReadabilityBlock>
         </VertCenter>
       </Slide>
-      <Slide>
+        <Slide>
         <VertCenter>
           <Title>Layout!</Title>
         </VertCenter>
@@ -396,13 +404,18 @@ const Week2 = () => {
       <Slide>
         <VertCenter>
           <Text>Most elements are Block level by default.</Text>
+          <List>
+            <Item>
+              <Text>Paragraph</Text>
+            </Item>
+            <Item>
+              <Text>Div</Text>
+            </Item>
+            </List>
           <Text>Some notable exceptions are</Text>
           <List>
             <Item>
               <Text>Image</Text>
-            </Item>
-            <Item>
-              <Text>Anchor</Text>
             </Item>
             <Item>
               <Text>Span</Text>
@@ -413,7 +426,7 @@ const Week2 = () => {
       <Slide>
         <VertCenter>
           <Text>
-            I find layout hard to understand in the abstract so lets take a break and go onto glitch for a demo.
+            Let's get onto glitch for a demo!
           </Text>
           <a href="https://glitch.com/~icom-101-starting-point">Fork this project to get started on glitch</a>
         </VertCenter>

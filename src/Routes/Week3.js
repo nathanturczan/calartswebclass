@@ -20,6 +20,41 @@ const VSlide = ({ children }) => (
 )
 const Week3 = () => (
   <Slideshow>
+  // <Slide>
+  //       <VertCenter>
+  //         <Title>Layout!</Title>
+  //       </VertCenter>
+  //     </Slide>
+  //     <Slide>
+  //       <VertCenter>
+  //         <Text>Broadly speaking, html elements default to one of 2 layout schemes.</Text>
+  //         <List>
+  //           <Item>
+  //             <Text>Block elements start a new line on the page.</Text>
+  //           </Item>
+  //           <Item>
+  //             <Text>Inline elements can exist on the same line as other inline elements.</Text>
+  //           </Item>
+  //         </List>
+  //       </VertCenter>
+  //     </Slide>
+  //     <Slide>
+  //       <VertCenter>
+  //         <Text>Most elements are Block level by default.</Text>
+  //         <Text>Some notable exceptions are</Text>
+  //         <List>
+  //           <Item>
+  //             <Text>Image</Text>
+  //           </Item>
+  //           <Item>
+  //             <Text>Anchor</Text>
+  //           </Item>
+  //           <Item>
+  //             <Text>Span</Text>
+  //           </Item>
+  //         </List>
+  //       </VertCenter>
+  //     </Slide>
     <VSlide>
       <Title>Welcome</Title>
       <Subtitle>Media and Web Development</Subtitle>
