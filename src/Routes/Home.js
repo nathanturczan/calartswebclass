@@ -34,7 +34,7 @@ const Home = () => {
             <SlideDesc>
               <em>Intro to HTML!</em>
               <p>
-                <a>Video Lecture</a>
+                <a href="https://youtu.be/RNVPJnML9F0">Video Lecture</a>
               </p>
               <p>
                 <a href="https://glitch.com/edit/#!/icom101-week1-start">HTML homework starting point (on Glitch)</a>
