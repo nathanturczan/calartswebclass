@@ -17,14 +17,14 @@ import {
 const Week3 = () => (
   <Slideshow>
 
-    <VSlide>
+    <Slide>
       <Title>Welcome</Title>
       <Subtitle>Media and Web Development</Subtitle>
       <Text>
         <em>Week 3 - Introduction to CSS</em>
       </Text>
-    </VSlide>
-    <VSlide>
+    </Slide>
+    <Slide>
       <Title>Agenda</Title>
       <List>
         <Item>
@@ -46,8 +46,8 @@ const Week3 = () => (
           <Text>Layout</Text>
         </Item>
       </List>
-    </VSlide>
-    <VSlide>
+    </Slide>
+    <Slide>
       <ReadabilityBlock>
         <Subtitle>
           CSS is a style sheet language used for describing the presentation of a document written in a markup language
@@ -55,10 +55,10 @@ const Week3 = () => (
         </Subtitle>
         <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">Wikipedia</a>
       </ReadabilityBlock>
-    </VSlide>
-    <VSlide>
+    </Slide>
+    <Slide>
       <Subtitle>CSS makes the web look the way it does!</Subtitle>
-    </VSlide>
+    </Slide>
   </Slideshow>
 )
 
