@@ -41,7 +41,7 @@ const Home = () => {
               </p>
               <p>
                 {<a >
-                  feedback videos!
+                  HW feedback videos!
                 </a>}
               </p>
             </SlideDesc>
@@ -57,7 +57,7 @@ const Home = () => {
               </p>
               <p>
                 <a >
-                  feedback videos!
+                  HW feedback videos!
                 </a>
               </p>
             </SlideDesc>
