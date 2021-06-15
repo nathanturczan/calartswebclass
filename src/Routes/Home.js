@@ -47,9 +47,7 @@ const Home = () => {
             </SlideDesc>
           </li>
           <li>
-            <ExternalSlideLink href="http://dexterjshepherd.com/ICOM-101/week-3/#/">
-              Week 3
-            </ExternalSlideLink>
+            <SlideLink to="/week3">Week 3</SlideLink>
             <SlideDesc>
               <em>Intro to CSS!</em>
               <p>

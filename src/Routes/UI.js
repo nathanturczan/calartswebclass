@@ -1,5 +1,21 @@
 import styled from 'styled-components'
 
+export const key = styled.span`
+  color: red;
+`
+
+export const colon = styled.span`
+  color: green;
+`
+
+export const value = styled.span`
+  color: blue;
+`
+
+export const semicolon = styled.span`
+  color: orange;
+`
+
 export const FlexVertCenter = styled.div`
   display: flex;
   justify-content: center;
@@ -54,6 +70,8 @@ export const VertCenter = styled.div`
   justify-content: center;
   align-items: center;
 `
+
+
 export const Subtitle = styled.h3`
   font-size: 2em;
 `

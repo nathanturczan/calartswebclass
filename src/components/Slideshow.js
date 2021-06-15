@@ -112,6 +112,16 @@ export const Slide = ({ children }) => {
   )
 }
 
+export const SlidePink = ({ children }) => {
+  return (
+    <SlideContainer>
+      <SlideCardPink>
+        <SlideContent>{children}</SlideContent>
+      </SlideCardPink>
+    </SlideContainer>
+  )
+}
+
 const SlideIndicator = styled.div`
   display: flex;
   flex-direction: column;
@@ -131,6 +141,7 @@ const SlideIndicatorDot = styled(m.a)`
   background-color: lightgray;
   margin: 8px;
 `
+
 
 const Controls = styled.div`
   position: fixed;
@@ -177,6 +188,13 @@ const SlideCard = styled.div`
   height: calc(100vh - 40px);
   box-shadow: 1px 5px 32px rgba(0, 0, 0, 0.3);
   border-radius: 8px;
+`
+const SlideCardPink = styled.div`
+  width: calc(100vw - 40px);
+  height: calc(100vh - 40px);
+  box-shadow: 1px 5px 32px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  background-color:pink;
 `
 
 const SlideContent = styled.div`

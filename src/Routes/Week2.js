@@ -1,5 +1,6 @@
 import React from 'react'
 import { Slideshow, Slide } from '../components/Slideshow'
+import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import {
   Title,
