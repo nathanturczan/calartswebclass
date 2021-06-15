@@ -339,14 +339,72 @@ const Week3 = () => (
     </Slide>
     <Slide>
       <VertCenter>
-        <Text></Text>
+        <img width="50%" src={img.googlefonts3} alt="" />
+      </VertCenter>
+    </Slide>
+    <SlidePink>
+      <VertCenter>
+        <img width="90%" src={img.googlefontsdemo} alt="" />
+        <Text><a href="https://glitch.com/edit/#!/google-fonts-demo1">google fonts glitch demo</a></Text>
+      </VertCenter>
+    </SlidePink>
+    <Slide>
+      <VertCenter>
+        <Title>Font Size & Units</Title>
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Text></Text>
+        <Text>The <code>font-size</code> property lets us set the size of our rendered text.<br/><br/>
+          You can declare the size in <code>px</code>, <code>em</code>, or <code>vw</code>.</Text>
       </VertCenter>
     </Slide>
+    <Slide>
+      <VertCenter>
+        <Text>Pixels is a exact unit, setting a font-size in pixels guarentees it will be the same size for all users.<br/><br/>
+          Em is similar to pixels, but accounts for the users global font-size setting. By default, 1em = 16px.<br/><br/>
+          Vw stands for viewport width. You can use this unit to make text resize with the browser window. This is useful for large hero text.</Text>
+      </VertCenter>
+    </Slide>
+    <SlidePink>
+      <VertCenter>
+        <img width="90%" src={img.fontsizedemo} alt="" />
+        <Text><a href="https://glitch.com/edit/#!/font-size-demo">font size glitch demo</a></Text>
+      </VertCenter>
+    </SlidePink>
+    <Slide>
+      <VertCenter>
+        <Text>You can read about more css font rules at w3schools <a href="https://www.w3schools.com/css/css_font.asp" target="_blank">CSS Fonts</a> page</Text>
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Title>Layout / CSS Box Model</Title>
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <img width="90%" src={img.layout1} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <img width="90%" src={img.layout2} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <img width="90%" src={img.layout3} alt="" />
+      </VertCenter>
+    </Slide>
+    <SlidePink>
+      <VertCenter>
+        <img width="90%" src={img.boxmodel} alt="" />
+        <Text><a href="https://glitch.com/edit/#!/box-model-demo1">box model Glitch demo</a></Text>
+      </VertCenter>
+    </SlidePink>
+
+
   </Slideshow>
 )
 
