@@ -16,7 +16,6 @@ import {
 
 const Week3 = () => (
   <Slideshow>
-
     <Slide>
       <Title>Welcome</Title>
       <Subtitle>Media and Web Development</Subtitle>
