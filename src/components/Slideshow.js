@@ -1,5 +1,4 @@
 import React, { useState, useCallback, useEffect } from 'react'
-import { useSpring, motion as m } from 'framer-motion'
 import { withRouter } from 'react-router-dom'
 import styled from 'styled-components'
 
@@ -8,7 +7,6 @@ export const Slideshow = withRouter(({ children, location, match, history }) => 
   const [socket, setSocket] = useState()
   const [socketOpen, setSocketOpen] = useState(false)
   const [follow, setFollow] = useState(true)
-  const [room, setRoom] = useState('mtiid')
   if (children.filter(child => !child.type.name.includes('Slide')).length && process.env.NODE_ENV !== 'production') {
     throw 'Only slides can be direct descendants of slideshow'
   }

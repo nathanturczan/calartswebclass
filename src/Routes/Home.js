@@ -46,25 +46,23 @@ const Home = () => {
               </p>
             </SlideDesc>
           </li>
-          {/*<li>
-            <ExternalSlideLink href="http://dexterjshepherd.com/ICOM-101/week-3/#/">
-              Week 3
-            </ExternalSlideLink>
+          <li>
+            <SlideLink to="/week2">Week 3</SlideLink>
             <SlideDesc>
               <em>Intro to CSS!</em>
               <p>
-                <a href="https://www.loom.com/share/df454fb9028f41d397f453eb8b92b8b4">
+                <a href="">
                   Video Lecture
                 </a>
               </p>
               <p>
-                <a href="https://loom.com/share/folder/46828e76393b4955816877df5f8172c7">
+                {/*<a href="https://loom.com/share/folder/46828e76393b4955816877df5f8172c7">
                   feedback videos!
-                </a>
+                </a>*/}
               </p>
             </SlideDesc>
           </li>
-          <li>
+          {/*<li>
             <SlideDesc>
               <em>Floats, Display Type, and Position</em>
               <p>
