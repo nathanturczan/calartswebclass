@@ -57,7 +57,7 @@ const Week4 = () => (
     <Slide>
       <VertCenter>
         <Subtitle>Closing Tags and Quoted Attributes</Subtitle>
-        <img width="20%" src={img.cascade} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
     </Slide>
     
