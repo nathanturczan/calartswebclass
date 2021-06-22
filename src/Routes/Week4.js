@@ -102,52 +102,84 @@ const Week4 = () => (
     <Slide>
       <VertCenter>
         <Subtitle>Justify Content</Subtitle>
-        <Text><a href="https://codepen.io/DexterShepherd/pen/OBMpVE?editors=0100" target="_blank">glitch demo</a></Text>
+        <Text>
+          <a href="https://codepen.io/DexterShepherd/pen/OBMpVE?editors=0100" target="_blank">
+            glitch demo
+          </a>
+        </Text>
         <img width="60%" src={img.justifycontent} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
         <Subtitle>Direction and Align Items</Subtitle>
-        <Text><a href="https://codepen.io/DexterShepherd/pen/gBPmWj?editors=0100" target="_blank">glitch demo</a></Text>
+        <Text>
+          <a href="https://codepen.io/DexterShepherd/pen/gBPmWj?editors=0100" target="_blank">
+            glitch demo
+          </a>
+        </Text>
 
         <img width="60%" src={img.flexdirection} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Wrap</Subtitle>
+        <Text>
+          <a href="https://codepen.io/DexterShepherd/pen/oabZyp?editors=1100" target="_blank">
+            glitch demo
+          </a>
+        </Text>
+        <img width="60%" src={img.wrap} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Grow</Subtitle>
+        <Text>
+          <a href="https://codepen.io/DexterShepherd/pen/aRdJjw?editors=0100" target="_blank">
+            glitch demo
+          </a>
+        </Text>
+
+        <img width="60%" src={img.grow} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>These examples are largely drawn from this fantastic write up on css-tricks</Subtitle>
+        <Text>
+          <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">
+            A Complete Guide to Flexbox
+          </a>
+        </Text>
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Title>Background Images and Effects</Title>
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Image</Subtitle>
+        <Text>
+          <a href="https://codepen.io/DexterShepherd/pen/mzVmRZ?editors=1100" target="_blank">
+            glitch demo
+          </a>
+        </Text>
+        <img width="60%" src={img.backgroundimage} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Gif</Subtitle>
+        <Text>
+        <a href="https://codepen.io/DexterShepherd/pen/EdPmwL?editors=1100" target="_blank">
+        glitch demo
+          </a>
+        </Text>
+        <img width="60%" src={img.backgroundgif} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
