@@ -70,6 +70,17 @@ const Home = () => {
           <li>
             <SlideLink to="/week4">Week 4</SlideLink>
             <SlideDesc>
+              <em>Advanced CSS!</em>
+              <p>
+                <a >
+                  Video Lecture
+                </a>
+              </p>
+              <p>
+                <a>
+                  HW feedback videos!
+                </a>
+              </p>
             </SlideDesc>
           </li>
           {/*<li>

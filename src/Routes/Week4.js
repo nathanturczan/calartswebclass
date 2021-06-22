@@ -61,50 +61,57 @@ const Week4 = () => (
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Tag Structure</Subtitle>
+        <img width="60%" src={img.structure} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Inline Styles</Subtitle>
+        <img width="60%" src={img.inlinestyle} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Image Sources</Subtitle>
+        <img width="60%" src={img.imagesrc} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Title>More positioning and layout</Title>
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Flex Box</Subtitle>
+        <Text>
+          Flex box lets us position elements within a container with greater control than we had with just the box model
+          + floats.
+        </Text>
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Text>
+          For flex to work, we need a container element with <code>display: flex</code> css rule applied.
+        </Text>
+        <Text>Any child elements of the flex container will be positioned with the flex rules of the container.</Text>
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Justify Content</Subtitle>
+        <Text><a href="https://codepen.io/DexterShepherd/pen/OBMpVE?editors=0100" target="_blank"></Text>
+        <img width="60%" src={img.justifycontent} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Direction and Align Items</Subtitle>
+        <Text><a href="https://codepen.io/DexterShepherd/pen/gBPmWj?editors=0100" target="_blank"></Text>
+
+        <img width="60%" src={img.flexdirection} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
