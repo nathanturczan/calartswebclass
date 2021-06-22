@@ -103,7 +103,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Justify Content</Subtitle>
         <Text>
-          <a href="https://codepen.io/DexterShepherd/pen/OBMpVE?editors=0100" target="_blank">
+          <a href="https://glitch.com/edit/#!/jusitfy-content-demo" target="_blank">
             glitch demo
           </a>
         </Text>
@@ -114,7 +114,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Direction and Align Items</Subtitle>
         <Text>
-          <a href="https://codepen.io/DexterShepherd/pen/gBPmWj?editors=0100" target="_blank">
+          <a href="https://glitch.com/edit/#!/flex-direc-align-demo" target="_blank">
             glitch demo
           </a>
         </Text>
@@ -126,7 +126,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Wrap</Subtitle>
         <Text>
-          <a href="https://codepen.io/DexterShepherd/pen/oabZyp?editors=1100" target="_blank">
+          <a href="https://glitch.com/edit/#!/wrap-demo" target="_blank">
             glitch demo
           </a>
         </Text>
@@ -137,7 +137,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Grow</Subtitle>
         <Text>
-          <a href="https://codepen.io/DexterShepherd/pen/aRdJjw?editors=0100" target="_blank">
+          <a href="https://glitch.com/edit/#!/flex-grow-demo" target="_blank">
             glitch demo
           </a>
         </Text>
@@ -164,7 +164,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Image</Subtitle>
         <Text>
-          <a href="https://codepen.io/DexterShepherd/pen/mzVmRZ?editors=1100" target="_blank">
+          <a href="https://glitch.com/edit/#!/backgroundimg-demo" target="_blank">
             glitch demo
           </a>
         </Text>
@@ -175,7 +175,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Gif</Subtitle>
         <Text>
-          <a href="https://codepen.io/DexterShepherd/pen/EdPmwL?editors=1100" target="_blank">
+          <a href="https://glitch.com/edit/#!/gif-bckgrnd-demo" target="_blank">
             glitch demo
           </a>
         </Text>
@@ -206,12 +206,8 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Gradients</Subtitle>
         <Text>
-          <a
-            href="
-        https://codepen.io/DexterShepherd/pen/zmrwLL?editors=1100"
-            target="_blank"
-          >
-            glitch demo
+          <a href="https://glitch.com/edit/#!/gradient-bckgr-demo"
+            target="_blank">glitch demo
           </a>
         </Text>
         <img width="60%" src={img.gradient} alt="" />
@@ -234,49 +230,130 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>YouTube</Subtitle>
         <Text>find a video you like, and look for the share option in the bottom left corner</Text>
-        <img width="60%" src={img.youtube1} alt="" />
+        <img width="40%" src={img.youtube1} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        
-        <img width="60%" src={img.youtube2} alt="" />
+        <img width="40%" src={img.youtube2} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
         <Text>Click the embed option from the share menu and copy the embed code.</Text>
-        <img width="60%" src={img.youtube3} alt="" />
+        <img width="80%" src={img.youtube3} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Vimeo</Subtitle>
+        <img width="40%" src={img.vimeo1} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Text>
+          The idea with most of these things is pretty similar. You look for the share button, then find the embed code
+          to copy.
+          <br />
+          <br />
+          embed codes usually start with an <code>iframe</code> element
+        </Text>
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Text>
+          <a href="https://glitch.com/edit/#!/vimeo-embed-demo">glitch demo</a>
+        </Text>
+        <img width="60%" src={img.vimeo} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>SoundCloud</Subtitle>
+        <Text>
+          <a href="https://glitch.com/edit/#!/soundcloud-embed-emo">glitch demo</a>
+        </Text>
+        <img width="60%" src={img.soundcloud} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Text>
+          Embedding videos in in a way that works with different screen sizes is notoriously complicated.
+          <br />
+          A nice image that links to the video can be a better approach.
+          <br />
+          If you absolutely need to embed something responsively, check out:
+          <br />
+          <br />
+          <a href="http://embedresponsively.com/" target="_blank">
+            Embed Responsively
+          </a>
+          <br />
+          <br />
+          They provide an alternate embed code that sometimes looks nicer.
+        </Text>
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>Psuedo-selectors</Subtitle>
+        <Text>
+          In addition to the tag/class/descendant selectors we looked at last week, css gives{' '}
+          <code>psuedo-selectors</code>.<br />
+          <br />
+          These allow us to select an element based on a few more complex rules.
+        </Text>
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>
+          There are many psuedo-selectors, most are specific to certain uses, but some of the more general ones are
+        </Subtitle>
+        <List>
+          <Item>
+            <code>:first-child / :last-child</code>
+          </Item>
+          <Item>
+            <code>:first-of-type / :last-of-type</code>
+          </Item>
+          <Item>
+            <code>:hover</code>
+          </Item>
+          <Item>
+            <code>:active</code>
+          </Item>
+        </List>
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>first/last-child and first/last-of-type</Subtitle>
+        <Text>
+          <a href="https://codepen.io/DexterShepherd/pen/xyZdNM?editors=1100">glitch demo</a>
+        </Text>
+        <img width="60%" src={img.firstchild} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>hover</Subtitle>
+        <Text>
+          <a href="https://codepen.io/DexterShepherd/pen/gBPWVM">glitch demo</a>
+        </Text>
+        <img width="40%" src={img.active} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>Active</Subtitle>
+        <Text>
+          <a href="https://codepen.io/DexterShepherd/pen/PyZjwb">glitch demo</a>
+        </Text>
+        <img width="60%" src={img.hover} alt="" />
       </VertCenter>
     </Slide>
   </Slideshow>
