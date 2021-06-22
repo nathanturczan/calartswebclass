@@ -20,7 +20,6 @@ import {
 } from './UI'
 import * as img from '../assets/week-4'
 
-
 const Week4 = () => (
   <Slideshow>
     <Slide>
@@ -59,126 +58,181 @@ const Week4 = () => (
         <Subtitle>Closing Tags and Quoted Attributes</Subtitle>
         <img width="60%" src={img.tags} alt="" />
       </VertCenter>
-      <Slide>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-      <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
-      </VertCenter>
-
     </Slide>
-    
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.tags} alt="" />
+      </VertCenter>
+    </Slide>
   </Slideshow>
 )
 
