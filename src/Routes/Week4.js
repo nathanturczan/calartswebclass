@@ -74,7 +74,7 @@ const Week4 = () => (
     <Slide>
       <VertCenter>
         <Subtitle>Image Sources</Subtitle>
-        <img width="60%" src={img.imagesrc} alt="" />
+        <img width="30%" src={img.imagesrc} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
@@ -175,8 +175,8 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Gif</Subtitle>
         <Text>
-        <a href="https://codepen.io/DexterShepherd/pen/EdPmwL?editors=1100" target="_blank">
-        glitch demo
+          <a href="https://codepen.io/DexterShepherd/pen/EdPmwL?editors=1100" target="_blank">
+            glitch demo
           </a>
         </Text>
         <img width="60%" src={img.backgroundgif} alt="" />
@@ -184,62 +184,69 @@ const Week4 = () => (
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Quick note on giphy for background gifs</Subtitle>
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <img width="60%" src={img.giphy1} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <img width="60%" src={img.giphy2} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <img width="60%" src={img.giphy3} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>Gradients</Subtitle>
+        <Text>
+          <a
+            href="
+        https://codepen.io/DexterShepherd/pen/zmrwLL?editors=1100"
+            target="_blank"
+          >
+            glitch demo
+          </a>
+        </Text>
+        <img width="60%" src={img.gradient} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Title>Embedded content</Title>
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Text>
+          We're entering the wild west a bit here. Different sites embed content in different ways, so you might need to
+          mess around a bit to get something you like.
+        </Text>
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Subtitle>YouTube</Subtitle>
+        <Text>find a video you like, and look for the share option in the bottom left corner</Text>
+        <img width="60%" src={img.youtube1} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        
+        <img width="60%" src={img.youtube2} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
-        <Subtitle></Subtitle>
-        <img width="60%" src={img.tags} alt="" />
+        <Text>Click the embed option from the share menu and copy the embed code.</Text>
+        <img width="60%" src={img.youtube3} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
