@@ -103,7 +103,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Justify Content</Subtitle>
         <Text>
-          <a href="https://glitch.com/edit/#!/jusitfy-content-demo" target="_blank">
+          <a href="https://glitch.com/edit/#!/jusitfy-content-demo" target="_blank" rel="noopener noreferrer">
             glitch demo
           </a>
         </Text>
@@ -114,7 +114,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Direction and Align Items</Subtitle>
         <Text>
-          <a href="https://glitch.com/edit/#!/flex-direc-align-demo" target="_blank">
+          <a href="https://glitch.com/edit/#!/flex-direc-align-demo" target="_blank" rel="noopener noreferrer">
             glitch demo
           </a>
         </Text>
@@ -126,7 +126,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Wrap</Subtitle>
         <Text>
-          <a href="https://glitch.com/edit/#!/wrap-demo" target="_blank">
+          <a href="https://glitch.com/edit/#!/wrap-demo" target="_blank" rel="noopener noreferrer">
             glitch demo
           </a>
         </Text>
@@ -137,7 +137,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Grow</Subtitle>
         <Text>
-          <a href="https://glitch.com/edit/#!/flex-grow-demo" target="_blank">
+          <a href="https://glitch.com/edit/#!/flex-grow-demo" target="_blank" rel="noopener noreferrer">
             glitch demo
           </a>
         </Text>
@@ -164,7 +164,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Image</Subtitle>
         <Text>
-          <a href="https://glitch.com/edit/#!/backgroundimg-demo" target="_blank">
+          <a href="https://glitch.com/edit/#!/backgroundimg-demo" target="_blank" rel="noopener noreferrer">
             glitch demo
           </a>
         </Text>
@@ -175,39 +175,20 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Gif</Subtitle>
         <Text>
-          <a href="https://glitch.com/edit/#!/gif-bckgrnd-demo" target="_blank">
+          <a href="https://glitch.com/edit/#!/gif-bckgrnd-demo" target="_blank" rel="noopener noreferrer">
             glitch demo
           </a>
         </Text>
         <img width="60%" src={img.backgroundgif} alt="" />
       </VertCenter>
     </Slide>
-    <Slide>
-      <VertCenter>
-        <Subtitle>Quick note on giphy for background gifs</Subtitle>
-      </VertCenter>
-    </Slide>
-    <Slide>
-      <VertCenter>
-        <img width="60%" src={img.giphy1} alt="" />
-      </VertCenter>
-    </Slide>
-    <Slide>
-      <VertCenter>
-        <img width="60%" src={img.giphy2} alt="" />
-      </VertCenter>
-    </Slide>
-    <Slide>
-      <VertCenter>
-        <img width="60%" src={img.giphy3} alt="" />
-      </VertCenter>
-    </Slide>
+    
     <Slide>
       <VertCenter>
         <Subtitle>Gradients</Subtitle>
         <Text>
           <a href="https://glitch.com/edit/#!/gradient-bckgr-demo"
-            target="_blank">glitch demo
+            target="_blank" rel="noopener noreferrer">glitch demo
           </a>
         </Text>
         <img width="60%" src={img.gradient} alt="" />
@@ -264,7 +245,7 @@ const Week4 = () => (
     <Slide>
       <VertCenter>
         <Text>
-          <a href="https://glitch.com/edit/#!/vimeo-embed-demo">glitch demo</a>
+          <a href="https://glitch.com/edit/#!/vimeo-embed-demo" target="_blank" rel="noopener noreferrer">glitch demo</a>
         </Text>
         <img width="60%" src={img.vimeo} alt="" />
       </VertCenter>
@@ -273,7 +254,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>SoundCloud</Subtitle>
         <Text>
-          <a href="https://glitch.com/edit/#!/soundcloud-embed-emo">glitch demo</a>
+          <a href="https://glitch.com/edit/#!/soundcloud-embed-emo" target="_blank" rel="noopener noreferrer">glitch demo</a>
         </Text>
         <img width="60%" src={img.soundcloud} alt="" />
       </VertCenter>
@@ -288,7 +269,7 @@ const Week4 = () => (
           If you absolutely need to embed something responsively, check out:
           <br />
           <br />
-          <a href="http://embedresponsively.com/" target="_blank">
+          <a href="http://embedresponsively.com/" target="_blank" rel="noopener noreferrer">
             Embed Responsively
           </a>
           <br />
@@ -333,7 +314,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>first/last-child and first/last-of-type</Subtitle>
         <Text>
-          <a href="https://glitch.com/edit/#!/pseudoselector-demo">glitch demo</a>
+          <a href="https://glitch.com/edit/#!/pseudoselector-demo" target="_blank" rel="noopener noreferrer">glitch demo</a>
         </Text>
         <img width="60%" src={img.firstchild} alt="" />
       </VertCenter>
@@ -342,7 +323,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>hover</Subtitle>
         <Text>
-          <a href="https://glitch.com/edit/#!/hover-demo">glitch demo</a>
+          <a href="https://glitch.com/edit/#!/hover-demo" target="_blank" rel="noopener noreferrer">glitch demo</a>
         </Text>
         <img width="40%" src={img.active} alt="" />
       </VertCenter>
@@ -351,7 +332,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Active</Subtitle>
         <Text>
-          <a href="https://glitch.com/edit/#!/active-button-demo">glitch demo</a>
+          <a href="https://glitch.com/edit/#!/active-button-demo" target="_blank" rel="noopener noreferrer">glitch demo</a>
         </Text>
         <img width="60%" src={img.hover} alt="" />
       </VertCenter>
