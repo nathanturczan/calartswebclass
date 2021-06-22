@@ -59,6 +59,124 @@ const Week4 = () => (
         <Subtitle>Closing Tags and Quoted Attributes</Subtitle>
         <img width="60%" src={img.tags} alt="" />
       </VertCenter>
+      <Slide>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      <VertCenter>
+        <Subtitle></Subtitle>
+        <img width="60%" src={img.} alt="" />
+      </VertCenter>
+      
     </Slide>
     
   </Slideshow>
