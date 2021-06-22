@@ -333,7 +333,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>first/last-child and first/last-of-type</Subtitle>
         <Text>
-          <a href="https://codepen.io/DexterShepherd/pen/xyZdNM?editors=1100">glitch demo</a>
+          <a href="https://glitch.com/edit/#!/pseudoselector-demo">glitch demo</a>
         </Text>
         <img width="60%" src={img.firstchild} alt="" />
       </VertCenter>
@@ -342,7 +342,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>hover</Subtitle>
         <Text>
-          <a href="https://codepen.io/DexterShepherd/pen/gBPWVM">glitch demo</a>
+          <a href="https://glitch.com/edit/#!/hover-demo">glitch demo</a>
         </Text>
         <img width="40%" src={img.active} alt="" />
       </VertCenter>
@@ -351,7 +351,7 @@ const Week4 = () => (
       <VertCenter>
         <Subtitle>Active</Subtitle>
         <Text>
-          <a href="https://codepen.io/DexterShepherd/pen/PyZjwb">glitch demo</a>
+          <a href="https://glitch.com/edit/#!/active-button-demo">glitch demo</a>
         </Text>
         <img width="60%" src={img.hover} alt="" />
       </VertCenter>
