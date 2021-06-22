@@ -62,121 +62,121 @@ const Week4 = () => (
       <Slide>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
       <VertCenter>
         <Subtitle></Subtitle>
-        <img width="60%" src={img.} alt="" />
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
-      
+
     </Slide>
     
   </Slideshow>
