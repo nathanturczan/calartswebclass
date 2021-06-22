@@ -102,14 +102,14 @@ const Week4 = () => (
     <Slide>
       <VertCenter>
         <Subtitle>Justify Content</Subtitle>
-        <Text><a href="https://codepen.io/DexterShepherd/pen/OBMpVE?editors=0100" target="_blank"></Text>
+        <Text><a href="https://codepen.io/DexterShepherd/pen/OBMpVE?editors=0100" target="_blank">glitch demo</a></Text>
         <img width="60%" src={img.justifycontent} alt="" />
       </VertCenter>
     </Slide>
     <Slide>
       <VertCenter>
         <Subtitle>Direction and Align Items</Subtitle>
-        <Text><a href="https://codepen.io/DexterShepherd/pen/gBPmWj?editors=0100" target="_blank"></Text>
+        <Text><a href="https://codepen.io/DexterShepherd/pen/gBPmWj?editors=0100" target="_blank">glitch demo</a></Text>
 
         <img width="60%" src={img.flexdirection} alt="" />
       </VertCenter>
