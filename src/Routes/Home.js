@@ -72,7 +72,7 @@ const Home = () => {
             <SlideDesc>
               <em>Advanced CSS!</em>
               <p>
-                <a >
+                <a href="https://www.loom.com/share/b99422df88c74b09b98a0b9220e87a94">
                   Video Lecture
                 </a>
               </p>
