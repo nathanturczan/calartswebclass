@@ -61,7 +61,7 @@ const Home = () => {
                 </a>
               </p>
               <p>
-                <a >
+                <a href="https://loom.com/share/folder/9744038c51cf4f42b59d3ed6f3d0383b">
                   HW feedback videos!
                 </a>
               </p>
