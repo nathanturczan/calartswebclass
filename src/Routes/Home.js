@@ -23,7 +23,7 @@ const Home = () => {
           <li>
             <SlideLink to="/week1">Week 1</SlideLink>
             <SlideDesc>
-              <em>Welcome to the course!</em>
+              <em>Welcome to the course 👋</em>
               <p>
                 <a href="https://youtu.be/kSt9Gssf-Kk">Video Lecture</a>
               </p>
@@ -32,7 +32,7 @@ const Home = () => {
           <li>
             <SlideLink to="/week2">Week 2</SlideLink>
             <SlideDesc>
-              <em>Intro to HTML!</em>
+              <em>Intro to HTML 🕸️</em>
               <p>
                 <a href="https://youtu.be/RNVPJnML9F0">Video Lecture</a>
               </p>
@@ -49,7 +49,7 @@ const Home = () => {
           <li>
             <SlideLink to="/week3">Week 3</SlideLink>
             <SlideDesc>
-              <em>Intro to CSS!</em>
+              <em>Intro to CSS 💻</em>
               <p>
                 <a href="https://youtu.be/tlzUA_ijW0w">
                   Video Lecture
@@ -70,7 +70,7 @@ const Home = () => {
           <li>
             <SlideLink to="/week4">Week 4</SlideLink>
             <SlideDesc>
-              <em>Advanced CSS!</em>
+              <em>Advanced CSS 😎</em>
               <p>
                 <a href="https://www.loom.com/share/b99422df88c74b09b98a0b9220e87a94">
                   Video Lecture
@@ -83,22 +83,22 @@ const Home = () => {
               </p>
             </SlideDesc>
           </li>
-          {/*<li>
-            <ExternalSlideLink href="http://dexterjshepherd.com/ICOM-101/week-4/#/">
-              Week 5
-            </ExternalSlideLink>
+          <li>
+            <SlideLink to="/week5">Week 5</SlideLink>
             <SlideDesc>
-              <em>FlexBox</em>
+              <em>No More Glitch 🚫🐠</em>
+              <p>
+                <a href="https://www.loom.com/share/b99422df88c74b09b98a0b9220e87a94">
+                  Video Lecture
+                </a>
+              </p>
+              <p>
+                <a>
+                  HW feedback videos!
+                </a>
+              </p>
             </SlideDesc>
           </li>
-          <li>
-            <ExternalSlideLink href="http://dexterjshepherd.com/ICOM-101/week-5/#/">
-              Week 6
-            </ExternalSlideLink>
-            <SlideDesc>
-              <em>Offline Development/Text editors</em>
-            </SlideDesc>
-          </li>*/}
         </Slides>
       </Section>
     </Container>
