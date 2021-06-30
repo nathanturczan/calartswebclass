@@ -88,7 +88,7 @@ const Home = () => {
             <SlideDesc>
               <em>No More Glitch 🚫🐠</em>
               <p>
-                <a>
+                <a href="https://www.loom.com/share/a7feb88082f74ad4add0fc8b751d8d8b">
                   Video Lecture
                 </a>
               </p>
