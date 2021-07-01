@@ -21,7 +21,7 @@ const Home = () => {
         <Subtitle>Sessions</Subtitle>
         <Slides>
           <li>
-            <SlideLink to="/week1">Week 1</SlideLink>
+            <SlideLink to="/week1">Week 1 slides</SlideLink>
             <SlideDesc>
               <em>Welcome to the course 👋</em>
               <p>
@@ -30,7 +30,7 @@ const Home = () => {
             </SlideDesc>
           </li>
           <li>
-            <SlideLink to="/week2">Week 2</SlideLink>
+            <SlideLink to="/week2">Week 2 slides</SlideLink>
             <SlideDesc>
               <em>Intro to HTML 🕸️</em>
               <p>
@@ -47,7 +47,7 @@ const Home = () => {
             </SlideDesc>
           </li>
           <li>
-            <SlideLink to="/week3">Week 3</SlideLink>
+            <SlideLink to="/week3">Week 3 slides</SlideLink>
             <SlideDesc>
               <em>Intro to CSS 💻</em>
               <p>
@@ -68,7 +68,7 @@ const Home = () => {
             </SlideDesc>
           </li>
           <li>
-            <SlideLink to="/week4">Week 4</SlideLink>
+            <SlideLink to="/week4">Week 4 slides</SlideLink>
             <SlideDesc>
               <em>Advanced CSS 😎</em>
               <p>
@@ -84,7 +84,7 @@ const Home = () => {
             </SlideDesc>
           </li>
           <li>
-            <SlideLink to="/week5">Week 5</SlideLink>
+            <SlideLink to="/week5">Week 5 slides</SlideLink>
             <SlideDesc>
               <em>No More Glitch 🚫🐠</em>
               <p>
