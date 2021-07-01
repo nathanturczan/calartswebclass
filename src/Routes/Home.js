@@ -77,7 +77,7 @@ const Home = () => {
                 </a>
               </p>
               <p>
-                <a>
+                <a href="https://loom.com/share/folder/cef74f30f9ba4a308d756b520f2ed1a0">
                   HW feedback videos!
                 </a>
               </p>
@@ -93,7 +93,7 @@ const Home = () => {
                 </a>
               </p>
               <p>
-                <a href="https://loom.com/share/folder/cef74f30f9ba4a308d756b520f2ed1a0">
+                <a >
                   HW feedback videos!
                 </a>
               </p>
