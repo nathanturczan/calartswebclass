@@ -144,9 +144,6 @@ __Homework__
 
 __Homework__
 - Work on your final site. Change some things, make it better.
-- Submit your work as a .zip file containing both your html and css files
-- Write a few sentences about what your goals for the site are, and how it's changed in this latest iteration.
-
 
 #### Week 7 - 7/12
 - Deployment
@@ -166,6 +163,7 @@ __Homework__
   - Responsive / Mobile First design
 
 __Homework__
+
 - Work on your final site. If you want to expand on your previous assignments, GO FOR IT! If you want to start something new, this is a good time to spin that up.
 
 - Present final projects
