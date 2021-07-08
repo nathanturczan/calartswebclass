@@ -99,6 +99,17 @@ const Home = () => {
               </p>
             </SlideDesc>
           </li>
+          <li>
+            <SlideLink to="/week6">Week 6</SlideLink>
+            <SlideDesc>
+              <em>Review ⭐⭐⭐⭐⭐</em>
+              <p>
+                <a>
+                  Video: Demonstrating Building a Website from the Ground Up
+                </a>
+              </p>
+            </SlideDesc>
+          </li>
         </Slides>
       </Section>
     </Container>

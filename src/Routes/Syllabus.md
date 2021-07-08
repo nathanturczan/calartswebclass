@@ -128,14 +128,9 @@ Not all techniques will be relevant to all projects, try to use at least 2 of th
 #### Week 5 - 6/28
 - Leaving Glitch!
   - Installing and using a text editor
-  - File Structure
-    - unix path syntax
   - The stuff glitch hides
     - `head` and `body` tags
     - `style` tag
-  - Installing Node.js
-    - Running a development server
-  - Using devtools
 
 __Homework__
 - Migrate one of the last two assignments ( something with both HTML and CSS ) out of glitch.
@@ -144,6 +139,16 @@ __Homework__
 - Submit your work as a .zip file containing both your html and css files
 
 #### Week 6 - 7/6
+- Review
+  - Building a site from the ground-up Video Demo
+
+__Homework__
+- Work on your final site. Change some things, make it better.
+- Submit your work as a .zip file containing both your html and css files
+- Write a few sentences about what your goals for the site are, and how it's changed in this latest iteration.
+
+
+#### Week 7 - 7/12
 - Deployment
   - Github Pages
   - Dropbox
@@ -155,21 +160,14 @@ __Homework__
 - Deploy one of your projects to the web
 - Extra credit : Purchase and link a custom domain
 
-#### Week 7 - 7/12
-_From this point onwards the schedule is more open, we may revisit some older material that is still unclear, or push forward and focus on whatever everyone is excited about_
-
-- Responsive Web Development
-  - Responsive / Mobile First design
-- Testing for mobile
-  - Dev tools
-  - Simulator
-  - Mobile debugging with Safari
-  - NGrok
-
-__Homework__
-Work on your final site. If you want to expand on your previous assignments, GO FOR IT! If you want to start something new, this is a good time to spin that up.
 
 #### Week 8 - 7/19
+- Responsive Web Development
+  - Responsive / Mobile First design
+
+__Homework__
+- Work on your final site. If you want to expand on your previous assignments, GO FOR IT! If you want to start something new, this is a good time to spin that up.
+
 - Present final projects
 
 
