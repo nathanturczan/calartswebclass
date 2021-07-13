@@ -110,6 +110,17 @@ const Home = () => {
               </p>
             </SlideDesc>
           </li>
+          <li>
+            <SlideLink to="/week7">Week 7</SlideLink>
+            <SlideDesc>
+              <em>Deployment 🚀</em>
+              <p>
+                <a >
+                  Lecture Video
+                </a>
+              </p>
+            </SlideDesc>
+          </li>
         </Slides>
       </Section>
     </Container>

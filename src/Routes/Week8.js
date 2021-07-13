@@ -20,11 +20,11 @@ import {
 } from './UI'
 
 
-const Week6 = () => (
+const Week8 = () => (
   <Slideshow>
     <Slide>
       <VertCenter>
-        <Title>Week 6</Title>
+        <Title>Week 8</Title>
         <Subtitle>no slides this week</Subtitle>
         <Subtitle>let's review what we've learned so far</Subtitle>
         <Text>
@@ -37,4 +37,4 @@ const Week6 = () => (
   </Slideshow>
 )
 
-export default Week6
+export default Week8
