@@ -11,7 +11,7 @@ const Home = () => {
           <em>ICOM-101 / MTEC-617</em>
         </Subtitle>
         <p>remote | asynchronous</p>
-        <p>new lecture videos / assignments posted Tuesday afternoons</p>
+        <p>new lecture videos / assignments posted Wednesdays at 6pm</p>
       </Header>
       <Section>
         <Subtitle>Syllabus</Subtitle>
@@ -29,7 +29,7 @@ const Home = () => {
               </p>
             </SlideDesc>
           </li>
-          <li>
+{/*           <li>
             <SlideLink to="/week2">Week 2 slides</SlideLink>
             <SlideDesc>
               <em>Intro to HTML 🕸️</em>
@@ -120,7 +120,7 @@ const Home = () => {
                 </a>
               </p>
             </SlideDesc>
-          </li>
+          </li>*/}
         </Slides>
       </Section>
     </Container>

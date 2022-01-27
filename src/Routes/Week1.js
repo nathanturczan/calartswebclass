@@ -23,7 +23,7 @@ const Week1 = () => (
         <Text>
           <a href="mailto:nturczan@calarts.edu">nturczan@calarts.edu</a>
         </Text>
-        <Text>Composer, Media Artist, Developer, Educator</Text>
+        <Text>Composer, Media Artist, DEVELOPER, Educator</Text>
         <Text>Office Hours are by appointment</Text>
       </TextCenter>
     </Slide>

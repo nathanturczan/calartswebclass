@@ -1,4 +1,4 @@
-# Media and Web Development - Fall 2019
+# Media and Web Development - Spring 2022
 __ICOM-101-01 / MTEC-617-01__   
 
 
@@ -27,7 +27,6 @@ source tools. The final project in this course is to have a personal website up 
   _we will install these together as the course progresses_
   - A programming focused text editor of your choice ( I recommend VSCode, Atom, or Sublime Text )
   - A modern web browser ( Google Chrome, Firefox, Safari, Microsoft Edge )
-  - Node.js
 
 ### Expected expenses
 Purchasing a domain name to use as your website URL is an optional, but strongly encouraged part of this course.
@@ -37,12 +36,12 @@ website domains come in at under $10 per year.
 ### Schedule
 _Schedule is subject to change at any time_
 
-#### Week 1 - 6/1
+#### Week 1 - 1/26
 - Welcome
 - Go over syllabus
 - Web fundamentals
 
-#### Week 2 - 6/7
+#### Week 2 - 2/2
 - Introduction to HTML
   - Elements and Tags and attributes
     - Typography
@@ -69,7 +68,7 @@ __Homework__
   - Extra Credit : Use an `a` tag to link to another website
   - Extra Credit : Use an `img` tag to display an image
 
-#### Week 3 - 6/14
+#### Week 3 - 2/9
 - Introduction to CSS
   - Selectors
     - Tag
@@ -96,7 +95,7 @@ __Homework__
   - Use at least one `class` attribute to selectively style some HTML
 - If you didn't last week, add an `img` and `a` tag to your document
 
-#### Week 4 - 6/21
+#### Week 4 - 2/16
 - Advanced CSS
   - Positioning and layout
     - Flex Box
@@ -125,12 +124,18 @@ Not all techniques will be relevant to all projects, try to use at least 2 of th
 - Use a CSS transition to animate an element on `:hover`
 - Add a CSS animation to your site
 
-#### Week 5 - 6/28
+
+#### Week 5 - 2/23
 - Leaving Glitch!
   - Installing and using a text editor
+  - File Structure
+    - unix path syntax
   - The stuff glitch hides
     - `head` and `body` tags
     - `style` tag
+  - Installing Node.js
+    - Running a development server
+  - Using devtools
 
 __Homework__
 - Migrate one of the last two assignments ( something with both HTML and CSS ) out of glitch.
@@ -138,14 +143,7 @@ __Homework__
   - Link your style.css file to the index.html with a `style` tag inside the `head` element of your html
 - Submit your work as a .zip file containing both your html and css files
 
-#### Week 6 - 7/6
-- Review
-  - Building a site from the ground-up Video Demo
-
-__Homework__
-- Work on your final site. Change some things, make it better.
-
-#### Week 7 - 7/12
+#### Week 6 - 3/2
 - Deployment
   - Github Pages
   - Dropbox
@@ -157,15 +155,52 @@ __Homework__
 - Deploy one of your projects to the web
 - Extra credit : Purchase and link a custom domain
 
+#### Week 7 - 3/9
+_From this point onwards the schedule is more open, we may revisit some older material that is still unclear, or push forward and focus on whatever everyone is excited about_
 
-#### Week 8 - 7/19
 - Responsive Web Development
   - Responsive / Mobile First design
+  - Media Queries
+  - CSS Frameworks ( Bootstrap / Material )
+- Testing for mobile
+  - Dev tools
+  - Simulator
+  - Mobile debugging with Safari
+  - NGrok
 
 __Homework__
+Work on your final site. If you want to expand on your previous assignments, GO FOR IT! If you want to start something new, this is a good time to spin that up.
 
-- Work on your final site. If you want to expand on your previous assignments, GO FOR IT! If you want to start something new, this is a good time to spin that up.
+#### Week 8 - 3/16
+- Basic Javascript
+  - Selecting elements with jquery
+  - listening for events ( click, hover, key press )
+  - animation ( jquery or anime.js )
 
+__Homework__
+Continue working on your final site.
+
+#### Week 9 - 3/23
+- Open period
+  - Dig further into topics that are interesting
+  - More Javascript if needed
+
+__Homework__
+Continue working on your final site.
+
+#### Week 10 - 3/30
+- Workshop time
+  - Free work period to make progress with your final projects
+  - Time to dig into specific issues and go over any key points we missed during the semester
+- Address road blocks before thanksgiving break
+
+__Homework__
+Continue working on your final site.
+
+#### Week 11 - 4/6
+- Present final projects
+
+#### Week 12 - 4/13
 - Present final projects
 
 
@@ -175,7 +210,6 @@ Technical assignments will have clearly marked grading criteria. Each of which m
 The final project, and the work weeks associated with it, will be graded in the context of the course at large, and the students personal goals. 
 
 __Final grades will be based on the following breakdown__
-- Attendance: 3 absences will yield an NX grade for the course.
 - Assignments: 70%
 - Final Project: 30% - Failure to submit a final project will yield an NC grade for the course.
 
