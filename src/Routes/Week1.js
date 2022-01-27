@@ -44,7 +44,7 @@ const Week1 = () => (
         </Item>
         <Item>
           <Text>
-            <a href="https://learn.calarts.edu/courses/icom-101-01-mtec-617-01-2021su-media-web-development">Learn</a>
+            <a href="https://learn.calarts.edu/courses/icom-101-01r-mtec-617-01r-2022sp-media-web-development">Learn</a>
           </Text>
           <Text>Calarts online learning portal. All assignments are submitted through Learn.</Text>
         </Item>
@@ -273,7 +273,7 @@ const Week1 = () => (
 
         <List>
           <Item>
-            <Text><a href="https://learn.calarts.edu/courses/icom-101-01-mtec-617-01-2021su-media-web-development">learn.calarts.edu</a></Text>
+            <Text><a href="https://learn.calarts.edu/courses/icom-101-01r-mtec-617-01r-2022sp-media-web-development">learn.calarts.edu</a></Text>
             </Item>
             <Text>
               I will track attendance and homework submission through learn. Make sure you have an account and are
