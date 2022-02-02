@@ -29,24 +29,24 @@ const Home = () => {
               </p>
             </SlideDesc>
           </li>
-{/*           <li>
+           <li>
             <SlideLink to="/week2">Week 2 slides</SlideLink>
             <SlideDesc>
               <em>Intro to HTML 🕸️</em>
               <p>
-                <a href="https://youtu.be/RNVPJnML9F0">Video Lecture</a>
+                <a href="">Video Lecture</a> coming soon!
               </p>
               <p>
                 <a href="https://glitch.com/edit/#!/icom101-week1-start">HTML homework starting point (on Glitch)</a>
               </p>
               <p>
-                <a href="https://loom.com/share/folder/cfb57ebd5b774edab3d3eb557fab68e8">
-                  HW feedback videos!
-                </a>
+                <a href="">
+                  HW feedback videos
+                </a> coming soon!
               </p>
             </SlideDesc>
           </li>
-          <li>
+{/*          <li>
             <SlideLink to="/week3">Week 3 slides</SlideLink>
             <SlideDesc>
               <em>Intro to CSS 💻</em>
