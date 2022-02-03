@@ -270,7 +270,7 @@ const Week2 = () => {
         <VertCenter>
           <TextCenter>
             <Subtitle>HTML has a tree like structure.</Subtitle>
-            <Text>This means we can embed tags withing other tags to form complex structures.</Text>
+            <Text>This means we can embed tags within other tags to form complex structures.</Text>
           </TextCenter>
         </VertCenter>
       </Slide>
@@ -304,7 +304,7 @@ const Week2 = () => {
               Opening tags can also include extra information about the element in the form of <em>Attributes</em>
             </Text>
             <Text>
-              We will work more with attributes in the coming weeks, but if you want some extra credit this week a
+              We will work more with attributes in the coming weeks, but if you want some extra credit this week, a
               couple are available right from the start.
             </Text>
           </ReadabilityBlock>
