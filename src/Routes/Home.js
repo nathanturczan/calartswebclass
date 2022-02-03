@@ -39,6 +39,10 @@ const Home = () => {
               <p>
                 <a href="https://glitch.com/edit/#!/icom-101-week-2-html-hw-startingpoint">HTML homework starting point (on Glitch)</a>
               </p>
+
+              <p>
+                <a href="https://glitch.com/edit/#!/icom101-week1-start">Homework demo / example</a>
+              </p>
               <p>
                 <a href="">
                   HW feedback videos
