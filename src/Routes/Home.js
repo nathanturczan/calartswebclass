@@ -44,18 +44,19 @@ const Home = () => {
                 <a href="https://glitch.com/edit/#!/icom101-week1-start">Homework demo / example</a>
               </p>
               <p>
-                <a href="">
-                  HW feedback videos
-                </a> coming soon!
+                <a href="https://loom.com/share/folder/1ec066ec22584162bce7782aa9750068
+">
+                  HW feedback videos.
+                </a> 
               </p>
             </SlideDesc>
           </li>
-{/*          <li>
+          <li>
             <SlideLink to="/week3">Week 3 slides</SlideLink>
             <SlideDesc>
               <em>Intro to CSS 💻</em>
               <p>
-                <a href="https://youtu.be/tlzUA_ijW0w">
+                <a href="">
                   Video Lecture
                 </a>
               </p>
@@ -65,13 +66,13 @@ const Home = () => {
                 </a>
               </p>
               <p>
-                <a href="https://loom.com/share/folder/9744038c51cf4f42b59d3ed6f3d0383b">
-                  HW feedback videos!
-                </a>
+                <p>
+                  HW feedback videos coming soon
+                </p>
               </p>
             </SlideDesc>
           </li>
-          <li>
+{/*          <li>
             <SlideLink to="/week4">Week 4 slides</SlideLink>
             <SlideDesc>
               <em>Advanced CSS 😎</em>
