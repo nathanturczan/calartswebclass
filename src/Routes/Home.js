@@ -56,9 +56,9 @@ const Home = () => {
             <SlideDesc>
               <em>Intro to CSS 💻</em>
               <p>
-                <a href="">
+                <p>
                   Video Lecture
-                </a>
+                </p>
               </p>
               <p>
                 <a href="https://youtu.be/fs0ttsrkb7g">
