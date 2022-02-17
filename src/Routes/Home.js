@@ -23,7 +23,7 @@ const Home = () => {
           <li>
             <SlideLink to="/week1">Week 1 slides</SlideLink>
             <SlideDesc>
-              <em>Welcome to the course 👋</em>
+              <em>Welcome to the course</em> 👋
               <p>
                 <a href="https://youtu.be/kSt9Gssf-Kk">Video Lecture</a>
               </p>
@@ -32,7 +32,7 @@ const Home = () => {
            <li>
             <SlideLink to="/week2">Week 2 slides</SlideLink>
             <SlideDesc>
-              <em>Intro to HTML 🕸️</em>
+              <em>Intro to HTML</em> 🕸️
               <p>
                 <a href="https://youtu.be/-O92u45Bi7E">Video Lecture!</a>
               </p>
@@ -54,7 +54,7 @@ const Home = () => {
           <li>
             <SlideLink to="/week3">Week 3 slides</SlideLink>
             <SlideDesc>
-              <em>Intro to CSS 💻</em>
+              <em>Intro to CSS</em> 💻
               <p>
                 <a href="https://www.loom.com/share/080c1de148304c12af933e361f340098">
                   Video Lecture
@@ -72,10 +72,16 @@ const Home = () => {
               </p>
             </SlideDesc>
           </li>
-{/*          <li>
-            <SlideLink to="/week4">Week 4 slides</SlideLink>
+          <li>
+            <SlideLink to="">Week 4 - no slides</SlideLink>
             <SlideDesc>
-              <em>Advanced CSS 😎</em>
+              <em>Present Intro to CSS HW</em> 🗣️
+            </SlideDesc>
+          </li>
+{/*          <li>
+            <SlideLink to="/week5">Week 5 slides</SlideLink>
+            <SlideDesc>
+              <em>Advanced CSS</em> 😎
               <p>
                 <a href="https://www.loom.com/share/b99422df88c74b09b98a0b9220e87a94">
                   Video Lecture
@@ -89,9 +95,9 @@ const Home = () => {
             </SlideDesc>
           </li>
           <li>
-            <SlideLink to="/week5">Week 5 slides</SlideLink>
+            <SlideLink to="/week6">Week 6 slides</SlideLink>
             <SlideDesc>
-              <em>No More Glitch 🚫🐠</em>
+              <em>No More Glitch</em> 🚫🐠
               <p>
                 <a href="https://www.loom.com/share/a7feb88082f74ad4add0fc8b751d8d8b">
                   Video Lecture
@@ -105,9 +111,9 @@ const Home = () => {
             </SlideDesc>
           </li>
           <li>
-            <SlideLink to="/week6">Week 6</SlideLink>
+            <SlideLink to="/week7">Week 7</SlideLink>
             <SlideDesc>
-              <em>Review ⭐⭐⭐⭐⭐</em>
+              <em>Review</em> ⭐⭐⭐⭐⭐
               <p>
                 <a href="https://www.loom.com/share/55d3e5d6da8f4ccd8b94cb38108f49d9">
                   Video: Demonstrating Building a Website from the Ground Up
@@ -116,9 +122,9 @@ const Home = () => {
             </SlideDesc>
           </li>
           <li>
-            <SlideLink to="/week7">Week 7</SlideLink>
+            <SlideLink to="/week8">Week 8</SlideLink>
             <SlideDesc>
-              <em>Deployment 🚀</em>
+              <em>Deployment</em> 🚀
               <p>
                 <a href="https://www.loom.com/share/abdebabf773c416d8635718bb3bf6180">
                   Lecture Video
