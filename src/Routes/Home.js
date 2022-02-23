@@ -82,14 +82,14 @@ const Home = () => {
             <SlideDesc>
               <em>Advanced CSS</em> 😎
               <p>
-                <a href="https://www.loom.com/share/b99422df88c74b09b98a0b9220e87a94">
+                <a href="https://youtu.be/Dx2tUDZjV2E">
                   Video Lecture
                 </a>
               </p>
               <p>
-                <a href="https://loom.com/share/folder/cef74f30f9ba4a308d756b520f2ed1a0">
-                  HW feedback videos!
-                </a>
+                <p>
+                  HW feedback videos still to come
+                </p>
               </p>
             </SlideDesc>
           </li>
