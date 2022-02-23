@@ -27,7 +27,7 @@ const Week5 = () => (
         <Title>Week 5</Title>
         <Subtitle>Media and Web Development</Subtitle>
         <Text>
-          <em>No More Glitch</em>
+          <em>Advanced CSS</em>
         </Text>
       </VertCenter>
     </Slide>
@@ -36,194 +36,307 @@ const Week5 = () => (
         <Title>Lecture Outline</Title>
         <List>
           <Item>
-            <Text>Offline vs Online development</Text>
+            <Text>review / housekeeping</Text>
           </Item>
           <Item>
-            <Text>Installing a text editor</Text>
+            <Text>positioning and layout continued</Text>
           </Item>
           <Item>
-            <Text>
-              <em>doctype</em>, <em>html</em>, <em>head</em>, and <em>body</em> tags
-            </Text>
+            <Text>background images / effects</Text>
           </Item>
           <Item>
-            <Text>File Structure, links, and assets</Text>
+            <Text>embedded content</Text>
+          </Item>
+          <Item>
+            <Text>pseudo-selectors</Text>
           </Item>
         </List>
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Title>Text editors</Title>
+        <Subtitle>Closing Tags and Quoted Attributes</Subtitle>
+        <img width="60%" src={img.tags} alt="" />
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Subtitle>
-          Once we are out of Glitch, we need a text editing program that we can use to write our code.
-        </Subtitle>
+        <Subtitle>Tag Structure</Subtitle>
+        <img width="60%" src={img.structure} alt="" />
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Subtitle>
-          This program doesn't <em>have</em> to be anything fancy, anything that can write a <code>html</code> file will
-          do, but things are much easier with a programming-specific editor.
-        </Subtitle>
+        <Subtitle>Inline Styles</Subtitle>
+        <img width="60%" src={img.inlinestyle} alt="" />
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Subtitle>Visual Studio Code</Subtitle>
-        <Text>or, VSCode</Text>
-        <img width="60%" src={img.codeui} alt="" />
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-          link
-        </a>
+        <Subtitle>Image Sources</Subtitle>
+        <img width="30%" src={img.imagesrc} alt="" />
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Subtitle>Sublime Text</Subtitle>
-        <img width="60%" src={img.sublimeui} alt="" />
-        <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer">
-          link
-        </a>
+        <Title>More positioning and layout</Title>
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Text>Please download and install <strong>VS CODE</strong> or <strong>SUBLIME TEXT</strong>.<br/><br/>
-          If you are more comfortable with another text editor feel free to use that.</Text>
-      </VertCenter>
-    </Slide>
-
-    <Slide>
-      <VertCenter>
-        <Subtitle>Stuff glitch gave us for free...</Subtitle>
-      </VertCenter>
-    </Slide>
-
-    <Slide>
-      <VertCenter>
-        <Subtitle>Doctype</Subtitle>
-        <img width="60%" src={img.doctype} alt="" />
-      </VertCenter>
-    </Slide>
-
-    <Slide>
-      <VertCenter>
-        <Text>Doctype is not a HTML tag. <br/><br/>
-
-        The doctype <em>declaration</em> is a special instruction to the browser specifying the version of HTML to use when rendering the page.<br/><br/>
-          The doctype tag should never change and should <strong>always</strong> be the first line of your html document</Text>
-
-      </VertCenter>
-    </Slide>
-
-    <Slide>
-      <VertCenter>
-        <Subtitle>html</Subtitle>
-        <img width="60%" src={img.html} alt="" />
-      </VertCenter>
-    </Slide>
-
-    <Slide>
-      <VertCenter>
-        <Text>The <code>html</code> element represents the root of element of your page.<br/><br/> 
-        Every other element in your code is a child of the <code>html</code> element.<br/><br/>
-        The <code>lang</code> specifies the langauge this documentis written in 
-        ( <code>en</code>  meaning english ) and the <code>dir</code> 
-        attribute specifies the text direction ( <code>ltr</code> stands 
-          for <em>left to right</em>)</Text>
-      </VertCenter>
-    </Slide>
-
-    <Slide>
-      <VertCenter>
-        <Subtitle>head</Subtitle>
-        <img width="60%" src={img.head} alt="" />
-      </VertCenter>
-    </Slide>
-
-    <Slide>
-      <VertCenter>
-        <Text>The <code>head</code> tag all the non-visible content on your webpage. 
-        This is where we can load stylesheets, set the tab title and icon, 
-        and supply any metadata about our site ( more on that later ).
+        <Subtitle>Flex Box</Subtitle>
+        <Text>
+          Flex box lets us position elements within a container with greater control than we had with just the box model
+          + floats.
         </Text>
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Subtitle>body</Subtitle>
-        <img width="60%" src={img.body} alt="" />
+        <Text>
+          For flex to work, we need a container element with <code>display: flex</code> css rule applied.
+        </Text>
+        <Text>Any child elements of the flex container will be positioned with the flex rules of the container.</Text>
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Text>The <code>body</code> tag is where all of our visible content goes. 
-        Everything we have written in the HTML pane on codepen has been inserted into the body tag.</Text>
+        <Subtitle>Justify Content</Subtitle>
+        <Text>
+          <a href="https://glitch.com/edit/#!/jusitfy-content-demo" target="_blank" rel="noopener noreferrer">
+            glitch demo
+          </a>
+        </Text>
+        <img width="60%" src={img.justifycontent} alt="" />
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Title>Everything in context</Title>
-        <img width="60%" src={img.context} alt="" />
+        <Subtitle>Direction and Align Items</Subtitle>
+        <Text>
+          <a href="https://glitch.com/edit/#!/flex-direc-align-demo" target="_blank" rel="noopener noreferrer">
+            glitch demo
+          </a>
+        </Text>
+
+        <img width="60%" src={img.flexdirection} alt="" />
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Title>File structure, links, and assets.</Title>
+        <Subtitle>Wrap</Subtitle>
+        <Text>
+          <a href="https://glitch.com/edit/#!/wrap-demo" target="_blank" rel="noopener noreferrer">
+            glitch demo
+          </a>
+        </Text>
+        <img width="60%" src={img.wrap} alt="" />
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Subtitle>link</Subtitle>
-        <img width="60%" src={img.link} alt="" />
+        <Subtitle>Grow</Subtitle>
+        <Text>
+          <a href="https://glitch.com/edit/#!/flex-grow-demo" target="_blank" rel="noopener noreferrer">
+            glitch demo
+          </a>
+        </Text>
+
+        <img width="60%" src={img.grow} alt="" />
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Text>We can link a stylesheet ( css file ) with a html document with the 
-        <code>link</code> tag. The link tag goes in the <strong>head</strong> 
-        of the html document<br/><br/>
-        The <code>link</code> tag has 2 required attributes.
-        <code>href</code> which specifies the path of the file to load, 
-        and <code>rel</code> which specifies the relationship between the 
-        loading document and the loaded document. In our case <code>rel</code> 
-        will always equal "stylesheet"</Text>
+        <Subtitle>These examples are largely drawn from this fantastic write up on css-tricks</Subtitle>
+        <Text>
+          <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">
+            A Complete Guide to Flexbox
+          </a>
+        </Text>
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-        <Title>Loading local images</Title>
+        <Title>Background Images and Effects</Title>
       </VertCenter>
     </Slide>
-
     <Slide>
       <VertCenter>
-
-        <img width="60%" src={img.img} alt="" />
-        <Text>We can load local images exactly like we loaded images in glitch. 
-        Only now, the <code>src</code> attribute of our <code>img</code> 
-        tag can point to files stored relative to the html file.</Text>
+        <Subtitle>Image</Subtitle>
+        <Text>
+          <a href="https://glitch.com/edit/#!/backgroundimg-demo" target="_blank" rel="noopener noreferrer">
+            glitch demo
+          </a>
+        </Text>
+        <img width="60%" src={img.backgroundimage} alt="" />
       </VertCenter>
     </Slide>
-
+    <Slide>
+      <VertCenter>
+        <Subtitle>Gif</Subtitle>
+        <Text>
+          <a href="https://glitch.com/edit/#!/gif-bckgrnd-demo" target="_blank" rel="noopener noreferrer">
+            glitch demo
+          </a>
+        </Text>
+        <img width="60%" src={img.backgroundgif} alt="" />
+      </VertCenter>
+    </Slide>
+    
+    <Slide>
+      <VertCenter>
+        <Subtitle>Gradients</Subtitle>
+        <Text>
+          <a href="https://glitch.com/edit/#!/gradient-bckgr-demo"
+            target="_blank" rel="noopener noreferrer">glitch demo
+          </a>
+        </Text>
+        <img width="60%" src={img.gradient} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Title>Embedded content</Title>
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Text>
+          We're entering the wild west a bit here. Different sites embed content in different ways, so you might need to
+          mess around a bit to get something you like.
+        </Text>
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>YouTube</Subtitle>
+        <Text>find a video you like, and look for the share option in the bottom left corner</Text>
+        <img width="40%" src={img.youtube1} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <img width="40%" src={img.youtube2} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Text>Click the embed option from the share menu and copy the embed code.</Text>
+        <img width="80%" src={img.youtube3} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>Vimeo</Subtitle>
+        <img width="40%" src={img.vimeo1} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Text>
+          The idea with most of these things is pretty similar. You look for the share button, then find the embed code
+          to copy.
+          <br />
+          <br />
+          embed codes usually start with an <code>iframe</code> element
+        </Text>
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Text>
+          <a href="https://glitch.com/edit/#!/vimeo-embed-demo" target="_blank" rel="noopener noreferrer">glitch demo</a>
+        </Text>
+        <img width="60%" src={img.vimeo} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>SoundCloud</Subtitle>
+        <Text>
+          <a href="https://glitch.com/edit/#!/soundcloud-embed-emo" target="_blank" rel="noopener noreferrer">glitch demo</a>
+        </Text>
+        <img width="60%" src={img.soundcloud} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Text>
+          Embedding videos in in a way that works with different screen sizes is notoriously complicated.
+          <br />
+          A nice image that links to the video can be a better approach.
+          <br />
+          If you absolutely need to embed something responsively, check out:
+          <br />
+          <br />
+          <a href="http://embedresponsively.com/" target="_blank" rel="noopener noreferrer">
+            Embed Responsively
+          </a>
+          <br />
+          <br />
+          They provide an alternate embed code that sometimes looks nicer.
+        </Text>
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>Psuedo-selectors</Subtitle>
+        <Text>
+          In addition to the tag/class/descendant selectors we looked at last week, css gives{' '}
+          <code>psuedo-selectors</code>.<br />
+          <br />
+          These allow us to select an element based on a few more complex rules.
+        </Text>
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>
+          There are many psuedo-selectors, most are specific to certain uses, but some of the more general ones are
+        </Subtitle>
+        <List>
+          <Item>
+            <code>:first-child / :last-child</code>
+          </Item>
+          <Item>
+            <code>:first-of-type / :last-of-type</code>
+          </Item>
+          <Item>
+            <code>:hover</code>
+          </Item>
+          <Item>
+            <code>:active</code>
+          </Item>
+        </List>
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>first/last-child and first/last-of-type</Subtitle>
+        <Text>
+          <a href="https://glitch.com/edit/#!/pseudoselector-demo" target="_blank" rel="noopener noreferrer">glitch demo</a>
+        </Text>
+        <img width="60%" src={img.firstchild} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>hover</Subtitle>
+        <Text>
+          <a href="https://glitch.com/edit/#!/hover-demo" target="_blank" rel="noopener noreferrer">glitch demo</a>
+        </Text>
+        <img width="40%" src={img.active} alt="" />
+      </VertCenter>
+    </Slide>
+    <Slide>
+      <VertCenter>
+        <Subtitle>Active</Subtitle>
+        <Text>
+          <a href="https://glitch.com/edit/#!/active-button-demo" target="_blank" rel="noopener noreferrer">glitch demo</a>
+        </Text>
+        <img width="60%" src={img.hover} alt="" />
+      </VertCenter>
+    </Slide>
   </Slideshow>
 )
 
