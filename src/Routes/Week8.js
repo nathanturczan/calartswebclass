@@ -18,13 +18,13 @@ import {
   value,
   semicolon
 } from './UI'
-import * as img from '../assets/week-7'
+import * as img from '../assets/week-8'
 
-const Week7 = () => (
+const Week8 = () => (
   <Slideshow>
     <Slide>
       <VertCenter>
-        <Title>Week 7</Title>
+        <Title>Week 8</Title>
         <Subtitle>Media & Web Development</Subtitle>
         <Text>
           <em>Deployment</em>
@@ -383,4 +383,4 @@ const Week7 = () => (
   </Slideshow>
 )
 
-export default Week7
+export default Week8

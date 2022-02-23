@@ -1,4 +1,3 @@
-
 export const domains1 = require('./domains-1.png');
 export const domains2 = require('./domains-2.png');
 export const domains3 = require('./domains-3.png');

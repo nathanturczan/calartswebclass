@@ -1,4 +1,3 @@
-
 export const atomui = require('./atom-ui.png');
 export const sublimeui = require('./sublimeui.png');
 export const atom = require('./atom.png');
