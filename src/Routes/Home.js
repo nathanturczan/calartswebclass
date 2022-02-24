@@ -86,6 +86,12 @@ const Home = () => {
                   Video Lecture
                 </a>
               </p>
+
+              <p>
+                <a href="https://youtu.be/_dv99sRCdFg">
+                  Office Hours
+                </a>
+              </p>
               <p>
                 <p>
                   HW feedback videos still to come
