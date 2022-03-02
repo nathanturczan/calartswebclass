@@ -94,28 +94,28 @@ const Home = () => {
               </p>
               <p>
                 <p>
-                  HW feedback videos still to come
+                  <a href="https://loom.com/share/folder/d27451476f634e8699682844d92294e6">HW feedback videos</a>
                 </p>
               </p>
             </SlideDesc>
           </li>
-{/*          <li>
+          <li>
             <SlideLink to="/week6">Week 6 slides</SlideLink>
             <SlideDesc>
               <em>No More Glitch</em> 🚫🐠
               <p>
-                <a href="https://www.loom.com/share/a7feb88082f74ad4add0fc8b751d8d8b">
+                <a href="https://youtu.be/iPysuJczakQ">
                   Video Lecture
                 </a>
               </p>
               <p>
                 <a >
-                  HW feedback videos!
+                  HW feedback videos still to come. 
                 </a>
               </p>
             </SlideDesc>
           </li>
-          <li>
+{/*          <li>
             <SlideLink to="/week7">Week 7</SlideLink>
             <SlideDesc>
               <em>Review</em> ⭐⭐⭐⭐⭐
