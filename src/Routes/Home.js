@@ -72,7 +72,7 @@ const Home = () => {
             </SlideDesc>
           </li>
           <li>
-            <SlideLink to="">Week 4 - no slides</SlideLink>
+            <p>Week 4 - no slides</p>
             <SlideDesc>
               <em>Present Intro to CSS HW</em> 🗣️
             </SlideDesc>
@@ -108,25 +108,25 @@ const Home = () => {
                   Video Lecture
                 </a>
               </p>
-              <p>
-                <a >
-                  HW feedback videos still to come. 
-                </a>
-              </p>
             </SlideDesc>
           </li>
-{/*          <li>
+          <li>
             <SlideLink to="/week7">Week 7</SlideLink>
             <SlideDesc>
               <em>Review</em> ⭐⭐⭐⭐⭐
               <p>
-                <a href="https://www.loom.com/share/55d3e5d6da8f4ccd8b94cb38108f49d9">
+              <a href="https://youtu.be/d7HwVbJzok4">
                   Video: Demonstrating Building a Website from the Ground Up
+                </a>
+                </p>
+                <p>
+                <a href="https://www.loom.com/share/55d3e5d6da8f4ccd8b94cb38108f49d9">
+                  groundup website demo from Summer 2021
                 </a>
               </p>
             </SlideDesc>
           </li>
-          <li>
+          {/* <li>
             <SlideLink to="/week8">Week 8</SlideLink>
             <SlideDesc>
               <em>Deployment</em> 🚀
