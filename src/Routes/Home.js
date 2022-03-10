@@ -118,8 +118,13 @@ const Home = () => {
               <a href="https://youtu.be/d7HwVbJzok4">
                   Video: Demonstrating Building a Website from the Ground Up
                 </a>
-                </p>
-                <p>
+              </p>
+              <p>
+                <a href="portfolio_site_2022.zip">
+                  Demo Portfolio Site (see above demo)
+                </a>
+              </p>
+              <p>
                 <a href="https://www.loom.com/share/55d3e5d6da8f4ccd8b94cb38108f49d9">
                   groundup website demo from Summer 2021
                 </a>
