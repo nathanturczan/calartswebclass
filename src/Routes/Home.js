@@ -119,10 +119,10 @@ const Home = () => {
                   Video: Demonstrating Building a Website from the Ground Up
                 </a>
               </p>
-              <p>
-                <a href="portfolio_site_2022.zip">
-                  Demo Portfolio Site (see above demo)
-                </a>
+              <p> Click this link to download the 
+                <a href="https://github.com/nathanturczan/calartswebclass/raw/master/portfolio_site_2022.zip">
+                  _Demo Portfolio Site
+                </a> that I built in the above video demo.
               </p>
               <p>
                 <a href="https://www.loom.com/share/55d3e5d6da8f4ccd8b94cb38108f49d9">
