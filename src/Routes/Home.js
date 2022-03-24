@@ -131,8 +131,26 @@ const Home = () => {
               </p>
             </SlideDesc>
           </li>
-          {/* <li>
-            <SlideLink to="/week8">Week 8</SlideLink>
+
+          <li>
+            <p>Week 8 - no slides</p>
+            <SlideDesc>
+              <em>Mobile and Responsive Design</em> 📱
+              <p>
+              <a href="https://www.loom.com/share/7c750f9665b64c509afdc480bf3477f5">
+                  Video: Demo-ing Responsive Design / Creating a Choose Your Own Adventure
+                </a>
+              </p>
+              <p> Click this link to download the 
+                <a href="https://github.com/nathanturczan/calartswebclass/raw/master/portfolio_site_2022.zip">
+                  _Choose Your Own Adventure
+                </a> demo that I built in the above video demo.
+              </p>
+            </SlideDesc>
+          </li>
+
+          <li>
+            <SlideLink to="/week8">Week 9</SlideLink>
             <SlideDesc>
               <em>Deployment</em> 🚀
               <p>
@@ -141,7 +159,7 @@ const Home = () => {
                 </a>
               </p>
             </SlideDesc>
-          </li>*/}
+          </li>
         </Slides>
       </Section>
     </Container>
