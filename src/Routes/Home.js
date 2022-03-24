@@ -142,7 +142,7 @@ const Home = () => {
                 </a>
               </p>
               <p> Click this link to download the 
-                <a href="https://github.com/nathanturczan/calartswebclass/raw/master/portfolio_site_2022.zip">
+                <a href="https://github.com/nathanturczan/calartswebclass/raw/master/week_8_demo_mobile.zip">
                   _Choose Your Own Adventure
                 </a> demo that I built in the above video demo.
               </p>
