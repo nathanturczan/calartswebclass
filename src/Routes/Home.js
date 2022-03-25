@@ -150,7 +150,7 @@ const Home = () => {
           </li>
 
           <li>
-            <SlideLink to="/week8">Week 9</SlideLink>
+            <SlideLink to="/week9">Week 9</SlideLink>
             <SlideDesc>
               <em>Deployment</em> 🚀
               <p>
