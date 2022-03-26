@@ -154,9 +154,10 @@ const Home = () => {
             <SlideDesc>
               <em>Deployment</em> 🚀
               <p>
-                <a href="https://www.loom.com/share/abdebabf773c416d8635718bb3bf6180">
-                  OLD Lecture Video - new one to be posted soon
+              <a href="https://youtu.be/qzH9NfglDKQ">
+                  Deployment lecture video
                 </a>
+        
               </p>
             </SlideDesc>
           </li>
